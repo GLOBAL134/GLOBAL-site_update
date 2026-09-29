@@ -1,1 +1,3 @@
-# GLOBAL-site_update
+# GLOBAL
+
+Статический сайт сервисно-визового центра GLOBAL для GitHub Pages.
